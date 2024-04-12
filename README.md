@@ -16,7 +16,7 @@ Ask me about DHIS2, eLearning, Immunization Data Supportive Supervision, Health 
   -  Participated in other CDC immunization and VPD surveillance data activities ongoing in Kenya, in partnership with the Kenya MOH, WHO Kenya and CDC Kenya & USAID-supported partners.
      - **Achievements:**
   - Revised the Immunization Supportive Supervision Checklist and included COVID-19, HPV and Malaria
-  - Re-customized the ISS Dashboard on KHIS-Tracker.
+  - Re-customized the ISS Dashboard on DHIS2-KHIS. https://shorturl.at/eisC4
   - Developed eLearning materials for use in MoH Virtual Academy and Immunization Academy.
 
 - **Health Information Systems Specialist** at **Ministry of Health-Kenya**
@@ -25,8 +25,23 @@ Ask me about DHIS2, eLearning, Immunization Data Supportive Supervision, Health 
   -  Conducted data quality assessment on gender-based violence in selected counties; Baringo, Uasin Gishu and Trans Nzoia and reduced outliers by 50%.
   -  Participated in the development of the national gender based violence scorecard
     - **Achievements:**
-  - Developed the Kenya Health Information Interoperability Framework.
+  - Developed the Kenya Health Information Interoperability Framework. https://shorturl.at/fhJPZ
   - Enhanced the MoH Virtual Academy. https://elearning.health.go.ke/
+- **Lectuer Intern at Kenya Medical Training College**
+  - Taught and evaluated students in various subjects e.g., DHIS2, The Kenya EMR, database, computer applications and web design.
+  - Assisted senior lecturers in research and development of teaching materials
+## Licenses & certifications
+   - https://www.coursera.org/account/accomplishments/specialization/certificate/ANUFE9DFWZV8
+   - https://courses.philanthropyu.org/verify/VZXRYTLFFH
+   - https://openwho.org/verify/xicis-bolop-zydev-mudal-cyduh
+   - https://www.coursera.org/account/accomplishments/certificate/XV8JB3AX64W4
+   - https://www.citiprogram.org/verify/?wb4b54007-7f73-489f-b003-0ebb19aafc17-61658094
+   - https://www.citiprogram.org/verify/?wae56531b-721e-41df-ab63-1a02b44a99e2-61657959
+
+## Proffessional Affiliation
+ - American Health Information Management Association (AHIMA)
+ - Healthcare Information and Management Systems Society (HIMSS)
+ 
 
 ## Skills
 - **Languages and Frameworks:** Python
