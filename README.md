@@ -1,10 +1,10 @@
 # Hi there, I'm Oscar Odiwuor Odera! 👋
 ## About Me
-I'm currently a student pursuing MS Health Informatics at Michigan Technological University.
-I’ve worked on projects involving Public Health Disease Surveillance Architecture Development and  Public Health Research on Health Policy Informatics titled; “Optimizing HPV Vaccination Coverage Through Targeted School Health  Policies in the United States”.
-I’m currently learning Python, HL7-FHIR and other standards, MySQL, Public Health Informatics and Health systems Analysis & Design.
-I’m looking to collaborate on Healthcare Data Analytics, Visualization, Interoperability and Digital Health.
-Ask me about DHIS2, eLearning, Immunization Data Supportive Supervision, Health Data Storytelling.
+- 🎓 I'm currently a student pursuing MS Health Informatics at Michigan Technological University.
+- 🔭 I’ve worked on projects involving Public Health Disease Surveillance Architecture Development and  Public Health Research on Health Policy Informatics titled; “Optimizing HPV Vaccination Coverage Through Targeted School Health  Policies in the United States”.
+- 🌱 I’m currently learning Python, HL7-FHIR and other standards, MySQL, Public Health Informatics and Health systems Analysis & Design.
+- 👯 I’m looking to collaborate on Healthcare Data Analytics, Visualization, Interoperability and Digital Health.
+- 💬 Ask me about: Health Data Exchange, Analysis & Visualization, DHIS2, eLearning, Immunization Data Supportive Supervision, Health Data Storytelling.
 
 - 📫 How to reach me: odiwuoroscar04@gmail.com
 
@@ -22,7 +22,7 @@ Ask me about DHIS2, eLearning, Immunization Data Supportive Supervision, Health 
 - **Health Information Systems Specialist** at **Ministry of Health-Kenya**
   - Provided training & Technical assistance to Health Information Officers at Counties and Implementing/Development partners.
   - Conducted COVID-19 vaccination campaign in-process monitoring and asserted the effectiveness of the vaccination campaign in Kisii, Homa Bay, Migori and Baringo Counties.
-  -  Conducted data quality assessment on gender-based violence in selected counties; Baringo, Uasin Gishu and Trans Nzoia and reduced outliers by 50%.
+  -  Conducted data quality assessment on gender-based violence in selected counties; Baringo, Uasin Gishu and Trans Nzoia and reduced outliers by 90%.
   -  Participated in the development of the national gender based violence scorecard
     - **Achievements:**
   - Developed the Kenya Health Information Interoperability Framework. https://shorturl.at/fhJPZ
@@ -32,6 +32,7 @@ Ask me about DHIS2, eLearning, Immunization Data Supportive Supervision, Health 
   - Assisted senior lecturers in research and development of teaching materials
 ## Licenses & certifications
    - https://www.coursera.org/account/accomplishments/specialization/certificate/ANUFE9DFWZV8
+   - https://www.coursera.org/account/accomplishments/certificate/XV8JB3AX64W4
    - https://courses.philanthropyu.org/verify/VZXRYTLFFH
    - https://openwho.org/verify/xicis-bolop-zydev-mudal-cyduh
    - https://www.coursera.org/account/accomplishments/certificate/XV8JB3AX64W4
